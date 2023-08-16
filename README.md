@@ -1,6 +1,6 @@
 # Design-of-Folded-Cascode-Operational-Amplifier
 Design of Folded Cascode Operational Amplifier in closed loop configuration in Cadence Virtuoso using tsmcN65 technology. the transistors used from this technology is nch_lvt,pch_lvt and the resistors,capacitors,voltage,current sources, iprobe are taken from the analog library
-The default Channel length of nch_lvt,pch_lvt is 60nm. The channel length I have taken is greater than 2 times of the default channel lenght i.e 225nm.
+The default Channel length of nch_lvt,pch_lvt is 60nm. The channel length I have taken is greater than 2 times of the default channel lenght i.e 225nm. And width is fixed to be 200nm and inorder to increase the width multipler option has been used.
 
 The primary advantage of the folded structure is in the choice of the voltage levels because if doesn't stack the cascode transistor on the top of the input device. 
 It has comparatively superior frequency response then two stage op-amp.
