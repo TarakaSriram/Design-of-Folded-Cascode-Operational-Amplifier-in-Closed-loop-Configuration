@@ -14,4 +14,4 @@ The configuration which I have implemented can used for multiple common modes(wh
 The second stage has also being used along with the compensation.
 In the same circuit, for the biasing of the current mirror loads, the direct bias fro the dc voltage source is not given instead biasing was made using a current mirror and diode connected in series which ensures the internal generation of that bias voltage and giving as a bias.
 
-The simulation results has been attached.
+The simulation results are updated in Simualtion Results file.
