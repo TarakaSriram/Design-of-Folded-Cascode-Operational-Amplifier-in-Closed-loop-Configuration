@@ -8,7 +8,7 @@ Better PSRR then two stage op-amp.
 Power consumption nearly equals to two stage op-amp. 
 
 The Specifications of this opamp are as follows:
-Vdd = 1.2v  Vss =0 , Closed loop Gain = 60dB , Phase margin = 79 degrees
+Vdd = 1.2v  Vss =0 , Closed loop Gain = 60dB , Phase margin = 79 degrees, UGB = 65MHz, Slew rate = 21.8 v/usec, Offset voltage = 22.6uv(typical).
 
 The configuration which I have implemented can used for multiple common modes(which can be used for wide range common modes without changing the gain) in open loop configuration.
 The second stage has also being used along with the compensation.
